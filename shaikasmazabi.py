@@ -1,2 +1,0 @@
-#printing name
-print("shaikasmazabi")
